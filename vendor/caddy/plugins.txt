@@ -1,7 +1,6 @@
 github.com/caddyserver/replace-response
+github.com/mholt/caddy-l4
+github.com/caddyserver/transform-encoder
 github.com/caddy-dns/cloudflare
 github.com/caddy-dns/alidns
 github.com/caddy-dns/tencentcloud
-github.com/mholt/caddy-l4
-github.com/caddyserver/transform-encoder
-github.com/caddy-dns/dnspod@fb7cc31cc04c68a304b8d2672c3e5d9f2ad3d7ba
